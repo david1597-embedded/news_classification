@@ -5,7 +5,7 @@
 # from webdriver_manager.chrome import ChromeDriverManager
 # import time
 
-print('test')
+print('-- test --')
 exit()
 #
 # options = ChromeOptions()
